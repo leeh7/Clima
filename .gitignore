@@ -59,4 +59,6 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 
+Clima/Constants.swift
+
 # End of https://www.gitignore.io/api/swift
